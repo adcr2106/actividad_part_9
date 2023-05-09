@@ -61,3 +61,4 @@ class AnalizadorLogs:
 analizador = AnalizadorLogs('trafico_web.log')
 estadisticas = analizador.procesar_logs()
 print(estadisticas)
+
